@@ -1,0 +1,13 @@
+{
+  "appId": "web.app.mentejogos.memoria",
+  "appName": "MemóriaMente",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 5000
+    }
+  },
+  "cordova": {}
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Memória",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
