@@ -1,6 +1,12 @@
 # Memória Mente
-Um simples jogo da memória feito em Ionic com ReactJS.
-Gerência de estados feita com Redux e CSS com StyledComponents.
+Um simples jogo da memória feito em <b>Ionic</b> com <b>ReactJS</b>.
+
+### Recursos utilizados:
+<ul>
+  <li>Linguagem de Programação: <b>TypeScript;</b></li>
+  <li>Gerência de estados: <b>Redux</b>;</li>
+  <li>Estilização: <b>StyledComponents</b>.</li>
+</ul>
 
 # Capturas de tela
 ![ScreenShot1](https://play-lh.googleusercontent.com/L1CwaUINqN7MLw25XeVtVDgxsP_4LEjZLYdA-OAvKHPjx6spTaFZfV7H3iwds6rXTwg=h500-rw)
